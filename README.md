@@ -1,5 +1,5 @@
-# 💫 About Me:
-MCA | Master of Computer Applications
+
+
 
 
 ## 🌐 Socials:
