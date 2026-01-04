@@ -18,7 +18,6 @@ From crafting user interfaces to wiring backend logic, I enjoy building applicat
 - Prefer **clarity over cleverness**
 - Write code that’s easy to read, test, and extend
 - Learn by building, breaking, and rebuilding
-
 ---
 
 ## 🧩 What I Build
@@ -26,16 +25,17 @@ From crafting user interfaces to wiring backend logic, I enjoy building applicat
 - Frontend interfaces with attention to interaction and usability  
 - Backend logic that supports real application workflows  
 - Database-driven features with a focus on data flow and integrity  
-
 ---
 
-## 🛠 Tech I Use
+## 🛠 Tech Stack
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
